@@ -313,6 +313,7 @@
 
 .footer__column-heading {
   color: white;
+  margin: 0;
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
@@ -321,6 +322,7 @@
 .footer__column-links {
   margin: 20px 0 16px 0;
   padding-inline-start: 0;
+  list-style-type: none;
 }
 
 .footer__social-icon {
