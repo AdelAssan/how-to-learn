@@ -1,5 +1,8 @@
 .video__iframe {
   margin: 0;
+  width: 515px;
+  height: 316px;
+  border-style: none;
 }
 
 .video__iframe:first-of-type {
